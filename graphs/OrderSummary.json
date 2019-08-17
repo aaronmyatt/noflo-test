@@ -1,0 +1,16 @@
+{
+    "caseSensitive": false,
+    "properties": {
+        "name": "OrderSummary",
+        "description": "Retrieve and parse the order summary of a users transaction from the Zuora API",
+        "icon": "usd",
+        "environment": {
+            "type": "noflo-nodejs"
+        }
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {},
+    "connections": []
+}
